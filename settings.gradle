@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "IPPreference"
 include ':app'
+include ':preference'
